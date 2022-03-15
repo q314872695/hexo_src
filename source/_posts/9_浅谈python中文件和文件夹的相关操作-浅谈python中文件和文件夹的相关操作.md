@@ -1,7 +1,8 @@
 ---
 title: 浅谈python中文件和文件夹的相关操作
-date: 2019-08-18 15:24:00
 tags: python
+abbrlink: a9dd22f1
+date: 2019-08-18 15:24:00
 ---
 
 

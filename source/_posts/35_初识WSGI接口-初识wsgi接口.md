@@ -1,7 +1,8 @@
 ---
 title: 初识WSGI接口
-date: 2019-09-15 21:41:54
 tags: python
+abbrlink: 4b88f152
+date: 2019-09-15 21:41:54
 ---
 
 ---

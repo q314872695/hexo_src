@@ -1,7 +1,8 @@
 ---
 title: python面向对象中的封装、继承、多态
-date: 2019-08-19 15:24:00
 tags: python
+abbrlink: 8a570d3b
+date: 2019-08-19 15:24:00
 ---
 
 

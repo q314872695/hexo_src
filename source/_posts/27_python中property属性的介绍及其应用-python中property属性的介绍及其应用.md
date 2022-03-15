@@ -1,7 +1,8 @@
 ---
 title: python中property属性的介绍及其应用
-date: 2019-08-28 15:24:00
 tags: python
+abbrlink: 5366f359
+date: 2019-08-28 15:24:00
 ---
 
 

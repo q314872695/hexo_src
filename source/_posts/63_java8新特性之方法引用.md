@@ -1,7 +1,8 @@
 ---
 title: java8新特性之方法引用
-date: 2020-05-16 09:08:14
 tags: java
+abbrlink: 47789b2f
+date: 2020-05-16 09:08:14
 ---
 
 # 冗余的Lambda场景

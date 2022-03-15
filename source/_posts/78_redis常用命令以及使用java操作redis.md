@@ -1,9 +1,10 @@
 ---
 title: redis常用命令以及使用java操作redis
-date: 2020-05-27 22:40:24
 tags:
-- java
-- redis
+  - java
+  - redis
+abbrlink: 3bea8c6b
+date: 2020-05-27 22:40:24
 ---
 
 # 命令操作

@@ -1,7 +1,8 @@
 ---
 title: shiro快速入门
-date: 2020-06-22 21:57:05
 tags: shiro
+abbrlink: 368a6765
+date: 2020-06-22 21:57:05
 ---
 
 > Apache Shiro从一开始就设计为支持任何应用程序-从最小的命令行应用程序到最大的群集Web应用程序。本案例从java程序开始

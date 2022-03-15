@@ -1,7 +1,8 @@
 ---
 title: python线程的几种创建方式
-date: 2019-08-23 15:24:00
 tags: python
+abbrlink: c61557f1
+date: 2019-08-23 15:24:00
 ---
 
 

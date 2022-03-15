@@ -1,7 +1,8 @@
 ---
 title: java线程通信中调用wait()和notify()的注意事项
-date: 2020-05-11 21:32:18
 tags: java
+abbrlink: 44962b09
+date: 2020-05-11 21:32:18
 ---
 
 **调用wait和notify方法需要注意的细节：**

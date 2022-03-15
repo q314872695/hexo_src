@@ -1,7 +1,8 @@
 ---
 title: java中的Lambda表达式
-date: 2020-05-12 15:34:55
 tags: java
+abbrlink: ae82cd12
+date: 2020-05-12 15:34:55
 ---
 
 # 体验Lambda的更优写法

@@ -1,9 +1,10 @@
 ---
 title: tomcat部署项目的三种方式
-date: 2020-05-21 15:42:32
 tags:
-- java
-- tomcat
+  - java
+  - tomcat
+abbrlink: 3f91e6fe
+date: 2020-05-21 15:42:32
 ---
 
 ## 直接将项目放到webapps目录下即可

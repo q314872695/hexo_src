@@ -1,7 +1,8 @@
 ---
 title: python中进程的几种创建方式
-date: 2019-08-23 15:24:00
 tags: python
+abbrlink: 1763ad42
+date: 2019-08-23 15:24:00
 ---
 
 

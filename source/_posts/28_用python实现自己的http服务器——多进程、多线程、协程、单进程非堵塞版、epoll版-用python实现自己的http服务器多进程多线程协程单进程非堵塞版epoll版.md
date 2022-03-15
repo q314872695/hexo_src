@@ -1,7 +1,8 @@
 ---
 title: 用python实现自己的http服务器——多进程、多线程、协程、单进程非堵塞版、epoll版
-date: 2019-08-28 15:24:00
 tags: python
+abbrlink: aba931f3
+date: 2019-08-28 15:24:00
 ---
 
 

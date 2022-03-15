@@ -1,9 +1,10 @@
 ---
 title: Servlet的简介
-date: 2020-05-21 16:19:40
 tags:
-- java
-- servlet
+  - java
+  - servlet
+abbrlink: f80b45a0
+date: 2020-05-21 16:19:40
 ---
 
 # 快速入门

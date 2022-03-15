@@ -1,7 +1,8 @@
 ---
 title: node版本冲突怎么办？快使用nvm-windows
-date: 2022-01-19 17:21:38
 tags: node
+abbrlink: bab125d4
+date: 2022-01-19 17:21:38
 ---
 
 # 前言

@@ -1,9 +1,10 @@
 ---
 title: spring中的声明式事务控制
-date: 2020-06-09 18:21:55
 tags:
-- java
-- spring
+  - java
+  - spring
+abbrlink: 954b2146
+date: 2020-06-09 18:21:55
 ---
 
 # 事务控制的API介绍

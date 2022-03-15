@@ -1,7 +1,8 @@
 ---
 title: java常用的数据库连接池C3P0、Druid以及Spring JDBC总结
-date: 2020-05-19 18:46:05
 tags: java
+abbrlink: 7fc31dd5
+date: 2020-05-19 18:46:05
 ---
 
 # 数据库连接池简介

@@ -1,7 +1,8 @@
 ---
 title: java中Random类的使用
-date: 2020-05-03 21:54:19
 tags: java
+abbrlink: 53cd40e1
+date: 2020-05-03 21:54:19
 ---
 
 >Random类用来生成随机数字

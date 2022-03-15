@@ -1,7 +1,8 @@
 ---
 title: java中泛型的介绍
-date: 2020-05-10 09:42:56
 tags: java
+abbrlink: aba9c023
+date: 2020-05-10 09:42:56
 ---
 
 # 泛型概述

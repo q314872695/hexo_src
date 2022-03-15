@@ -1,7 +1,8 @@
 ---
 title: java中基本数据类型之间的转换
-date: 2020-03-31 21:16:33
 tags: java
+abbrlink: 38ff66f3
+date: 2020-03-31 21:16:33
 ---
 
 

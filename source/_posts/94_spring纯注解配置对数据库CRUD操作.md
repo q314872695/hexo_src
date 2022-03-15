@@ -1,9 +1,10 @@
 ---
 title: spring纯注解配置对数据库CRUD操作
-date: 2020-06-08 18:04:44
 tags:
-- java
-- spring
+  - java
+  - spring
+abbrlink: 7cd4b75b
+date: 2020-06-08 18:04:44
 ---
 
 > 该案例和上一个案例项目结构一摸一样，只是删除了spring配置文件，以及添加的两个配置类来代替xml配置文件

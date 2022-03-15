@@ -1,9 +1,10 @@
 ---
 title: spring MVC中请求参数的总结
-date: 2020-06-10 19:09:02
 tags:
-- java
-- spring mvc
+  - java
+  - spring mvc
+abbrlink: b89fe25e
+date: 2020-06-10 19:09:02
 ---
 
 # 请求参数的绑定

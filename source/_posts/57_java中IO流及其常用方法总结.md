@@ -1,7 +1,8 @@
 ---
 title: java中IO流及其常用方法总结
-date: 2020-05-13 20:35:00
 tags: java
+abbrlink: 8a80acac
+date: 2020-05-13 20:35:00
 ---
 
 # IO概述

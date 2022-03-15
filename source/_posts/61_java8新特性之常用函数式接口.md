@@ -1,7 +1,8 @@
 ---
 title: java8新特性之常用函数式接口
-date: 2020-05-15 21:17:25
 tags: java
+abbrlink: b64ce03d
+date: 2020-05-15 21:17:25
 ---
 
 > 了解这几个函数式接口为学习steam流做准备

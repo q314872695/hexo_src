@@ -1,9 +1,10 @@
 ---
 title: Servlet中的Request和Response对象
-date: 2020-05-21 20:30:40
 tags:
-- java
-- servlet
+  - java
+  - servlet
+abbrlink: bc8d5003
+date: 2020-05-21 20:30:40
 ---
 
 > request和response对象是由服务器创建的，request对象是来获取请求消息，response对象是来设置响应消息

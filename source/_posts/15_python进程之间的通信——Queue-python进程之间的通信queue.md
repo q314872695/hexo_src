@@ -1,7 +1,8 @@
 ---
 title: python进程之间的通信——Queue
-date: 2019-08-22 15:24:00
 tags: python
+abbrlink: 6031ce39
+date: 2019-08-22 15:24:00
 ---
 
 

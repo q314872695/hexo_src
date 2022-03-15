@@ -1,7 +1,8 @@
 ---
-title: python3从入门到精通之数据类型,布尔类型介绍
-date: 2019-07-30 21:15:15
+title: 'python3从入门到精通之数据类型,布尔类型介绍'
 tags: python
+abbrlink: cca6c819
+date: 2019-07-30 21:15:15
 ---
 
 # 数据的类型

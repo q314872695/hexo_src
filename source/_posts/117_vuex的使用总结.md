@@ -1,7 +1,8 @@
 ---
 title: vuex的使用总结
-date: 2021-01-21 10:04:29
 tags: vue
+abbrlink: a1911f5e
+date: 2021-01-21 10:04:29
 ---
 
 

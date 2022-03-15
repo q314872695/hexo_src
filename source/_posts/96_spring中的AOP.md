@@ -1,9 +1,10 @@
 ---
 title: spring中的AOP
-date: 2020-06-09 10:43:23
 tags:
-- java
-- spring
+  - java
+  - spring
+abbrlink: affc4263
+date: 2020-06-09 10:43:23
 ---
 
 # AOP的作用和优势

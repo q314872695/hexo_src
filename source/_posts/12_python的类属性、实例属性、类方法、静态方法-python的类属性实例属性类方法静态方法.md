@@ -1,7 +1,8 @@
 ---
 title: python的类属性、实例属性、类方法、静态方法
-date: 2019-08-20 15:24:00
 tags: python
+abbrlink: cbff0d44
+date: 2019-08-20 15:24:00
 ---
 
 

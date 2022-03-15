@@ -1,7 +1,8 @@
 ---
 title: java注解的使用
-date: 2020-05-17 09:47:11
 tags: java
+abbrlink: aad189ba
+date: 2020-05-17 09:47:11
 ---
 
 # 什么是注解

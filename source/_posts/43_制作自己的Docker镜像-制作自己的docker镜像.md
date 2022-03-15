@@ -1,8 +1,8 @@
 ---
-
 title: 制作自己的Docker镜像
-date: 2020-04-15 21:41:54
 tags: docker
+abbrlink: c824dc0d
+date: 2020-04-15 21:41:54
 ---
 
 

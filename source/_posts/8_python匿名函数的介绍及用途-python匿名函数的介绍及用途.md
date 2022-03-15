@@ -1,7 +1,8 @@
 ---
 title: python匿名函数的介绍及用途
-date: 2019-08-17 15:24:00
 tags: python
+abbrlink: 40d98a4f
+date: 2019-08-17 15:24:00
 ---
 
 # 匿名函数

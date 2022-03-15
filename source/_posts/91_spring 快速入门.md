@@ -1,9 +1,10 @@
 ---
 title: spring 快速入门
+tags:
+  - java
+  - spring
+abbrlink: fdbeaf37
 date: 2020-06-08 15:11:22
-tags: 
-- java
-- spring
 ---
 
 # 新建一个空的maven项目，在pom.xml中添加相关坐标

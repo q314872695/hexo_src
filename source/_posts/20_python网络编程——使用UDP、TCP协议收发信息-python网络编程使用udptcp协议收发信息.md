@@ -1,7 +1,8 @@
 ---
 title: python网络编程——使用UDP、TCP协议收发信息
-date: 2019-08-25 15:24:00
 tags: python
+abbrlink: 57a78c85
+date: 2019-08-25 15:24:00
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: spring整合junit单元测试
-date: 2020-06-08 21:27:43
 tags:
-- java
-- spring
+  - java
+  - spring
+abbrlink: 4045f8ae
+date: 2020-06-08 21:27:43
 ---
 
 # 前情提要

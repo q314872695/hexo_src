@@ -1,9 +1,10 @@
 ---
 title: mybatis中的一级缓存和二级缓存
-date: 2020-06-05 08:16:36
 tags:
-- java
-- mybatis
+  - java
+  - mybatis
+abbrlink: eb51b5ea
+date: 2020-06-05 08:16:36
 ---
 
 # 一级缓存

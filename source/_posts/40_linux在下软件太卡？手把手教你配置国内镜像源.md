@@ -1,7 +1,8 @@
 ---
 title: linux在下软件太卡？手把手教你配置国内镜像源
-date: 2020-04-13 21:10:45 
 tags: linux
+abbrlink: 736b2ade
+date: 2020-04-13 21:10:45
 ---
 
 # ubuntu18.04 配置国内镜像源

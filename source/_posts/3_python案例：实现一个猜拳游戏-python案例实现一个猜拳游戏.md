@@ -1,7 +1,8 @@
 ---
 title: python案例：实现一个猜拳游戏
-date: 2019-08-02 15:24:00
 tags: python
+abbrlink: dd709aab
+date: 2019-08-02 15:24:00
 ---
 
 

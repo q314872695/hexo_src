@@ -1,7 +1,8 @@
 ---
 title: python中的元类介绍
-date: 2019-08-21 15:24:00
 tags: python
+abbrlink: 34b6116e
+date: 2019-08-21 15:24:00
 ---
 
 

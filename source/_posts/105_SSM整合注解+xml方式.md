@@ -1,11 +1,12 @@
 ---
 title: SSM整合注解+xml方式
+tags:
+  - java
+  - mybatis
+  - spring
+  - spring mvc
+abbrlink: 302560eb
 date: 2020-06-12 10:00:02
-tags: 
-- java
-- mybatis
-- spring
-- spring mvc
 ---
 
 # 准备pom.xml文件坐标

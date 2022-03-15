@@ -1,7 +1,8 @@
 ---
 title: import-xxx和from-xxx-import-xx中修改被导入模块里面的变量的坑
-date: 2019-08-29 15:24:00
 tags: python
+abbrlink: d46a9e4f
+date: 2019-08-29 15:24:00
 ---
 
 

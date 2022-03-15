@@ -1,9 +1,10 @@
 ---
 title: mybatis中的动态sql语句编写
-date: 2020-06-04 14:43:25
 tags:
-- java
-- mybatis
+  - java
+  - mybatis
+abbrlink: 90c0f7e
+date: 2020-06-04 14:43:25
 ---
 
 # 动态 SQL 之`<if>`标签

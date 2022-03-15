@@ -1,7 +1,8 @@
 ---
 title: Map接口及其子类介绍
-date: 2020-05-11 10:05:37
 tags: java
+abbrlink: f2167a39
+date: 2020-05-11 10:05:37
 ---
 
 # Map接口

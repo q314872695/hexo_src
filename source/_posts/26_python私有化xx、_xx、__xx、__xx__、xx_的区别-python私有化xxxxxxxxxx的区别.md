@@ -1,7 +1,8 @@
 ---
 title: python私有化xx、_xx、__xx、__xx__、xx_的区别
-date: 2019-08-28 15:24:00
 tags: python
+abbrlink: def21f9a
+date: 2019-08-28 15:24:00
 ---
 
 

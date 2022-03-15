@@ -1,7 +1,8 @@
 ---
 title: 使用python连接mysql数据库——pymysql模块的使用
-date: 2019-09-01 15:24:00
 tags: python
+abbrlink: '62279014'
+date: 2019-09-01 15:24:00
 ---
 
 # 安装pymysql

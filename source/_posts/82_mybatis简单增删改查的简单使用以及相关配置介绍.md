@@ -1,9 +1,10 @@
 ---
 title: mybatis增删改查的简单使用
-date: 2020-05-31 22:39
+date: '2020-05-31 22:39'
 tags:
-- java
-- mybatis
+  - java
+  - mybatis
+abbrlink: 7ed322fb
 ---
 
 # 基于代理 Dao 实现 CRUD 操作

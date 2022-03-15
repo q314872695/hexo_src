@@ -1,7 +1,8 @@
 ---
 title: 手写一个python迭代器
-date: 2019-08-26 15:24:00
 tags: python
+abbrlink: 3c230f9e
+date: 2019-08-26 15:24:00
 ---
 
 

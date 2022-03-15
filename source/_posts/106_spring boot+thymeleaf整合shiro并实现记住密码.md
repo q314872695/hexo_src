@@ -1,9 +1,10 @@
 ---
 title: spring boot+thymeleaf整合shiro并实现记住密码
-date: 2020-06-24 17:25:23
 tags:
-- shiro
-- spring boot
+  - shiro
+  - spring boot
+abbrlink: 1ce08af
+date: 2020-06-24 17:25:23
 ---
 
 > 至于在spring boot中使用shiro,配置起来就简单多了，具体如下

@@ -1,9 +1,10 @@
 ---
 title: Servlet中使用Cookie和Session
-date: 2020-05-23 15:39:03
 tags:
-- java
-- servlet
+  - java
+  - servlet
+abbrlink: 255c3423
+date: 2020-05-23 15:39:03
 ---
 
 # Cookie

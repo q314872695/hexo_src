@@ -1,7 +1,8 @@
 ---
 title: centos7 安装MySQL5.7（超详细）
-date: 2020-05-29 17:24:24
 tags: mysql
+abbrlink: 5a6a3a95
+date: 2020-05-29 17:24:24
 ---
 
 > 之前一直用的宝塔安装的软件，现在用命令行安装一下，遇到很多坑来记录一下,本文参考mysql官方文档https://dev.mysql.com/doc/refman/5.7/en/linux-installation-yum-repo.html

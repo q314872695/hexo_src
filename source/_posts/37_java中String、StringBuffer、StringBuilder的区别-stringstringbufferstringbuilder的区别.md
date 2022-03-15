@@ -1,7 +1,8 @@
 ---
 title: java中String和StringBuffer的区别
-date: 2020-03-31 14:21:32
 tags: java
+abbrlink: cb226433
+date: 2020-03-31 14:21:32
 ---
 
 

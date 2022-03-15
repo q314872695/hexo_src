@@ -1,7 +1,8 @@
 ---
 title: 一文读懂Hibernate Validator 数据校验框架
+tags: hibernate-validator
+abbrlink: 4e7c450e
 date: 2021-01-22 15:55:51
-tags: hibernate-validator 
 ---
 
 数据校验是一项常见的任务，在没有引入框架之前，我们通常的做法都是一堆的`if` 、 `else`等等，在代码中非常不美观，只用Hibernate Validator可以简化代码。

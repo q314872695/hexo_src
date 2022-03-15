@@ -1,9 +1,10 @@
 ---
 title: spring IOC常用注解按作用分类
-date: 2020-06-08 16:48:31
 tags:
-- java
-- spring
+  - java
+  - spring
+abbrlink: 6bbf23e0
+date: 2020-06-08 16:48:31
 ---
 
 > 要想使用注解需要在配置文件中添加注解扫描，并指定扫描的包

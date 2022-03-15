@@ -1,9 +1,10 @@
 ---
 title: spring boot 整合shiro 前后端分离跨域请求配置
-date: 2020-06-30 18:41:01
 tags:
-- shiro
-- spring boot
+  - shiro
+  - spring boot
+abbrlink: ec09c5a0
+date: 2020-06-30 18:41:01
 ---
 
 **Shiro配置如下**

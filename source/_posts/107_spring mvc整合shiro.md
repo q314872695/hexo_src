@@ -1,9 +1,10 @@
 ---
 title: spring mvc整合shiro
-date: 2020-06-22 21:57:51
 tags:
-- spring mvc
-- shiro
+  - spring mvc
+  - shiro
+abbrlink: 2292b57d
+date: 2020-06-22 21:57:51
 ---
 
 > shiro整合spring mvc,配置比较麻烦，先搭建spring mvc环境，然后再整合，本文主要是介绍shiro至于使用mybatis访问数据库，请参考之前文章 

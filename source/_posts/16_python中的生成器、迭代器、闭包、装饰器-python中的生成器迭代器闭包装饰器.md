@@ -1,7 +1,8 @@
 ---
 title: python中的生成器、迭代器、闭包、装饰器
-date: 2019-08-22 15:24:00
 tags: python
+abbrlink: 3025580d
+date: 2019-08-22 15:24:00
 ---
 
 

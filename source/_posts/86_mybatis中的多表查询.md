@@ -1,9 +1,10 @@
 ---
 title: mybatis中的多表查询
-date: 2020-06-04 15:42:52
 tags:
-- java
-- mybatis
+  - java
+  - mybatis
+abbrlink: c381a747
+date: 2020-06-04 15:42:52
 ---
 
 # 一对一查询（多对一）

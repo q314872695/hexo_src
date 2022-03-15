@@ -1,10 +1,11 @@
 ---
 title: spring+springmvc+mybatis-plus纯java环境搭建
-date: 2020-06-26 16:32:55
 tags:
-- spring
-- spring mvc
-- mybatis-plus
+  - spring
+  - spring mvc
+  - mybatis-plus
+abbrlink: 9b96df1
+date: 2020-06-26 16:32:55
 ---
 
 # 修改pom.xml

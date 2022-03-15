@@ -1,9 +1,10 @@
 ---
 title: spring MVC中的响应数据总结
-date: 2020-06-11 10:45:11
 tags:
-- java
-- spring mvc
+  - java
+  - spring mvc
+abbrlink: 1c068cee
+date: 2020-06-11 10:45:11
 ---
 
 # 返回值分类

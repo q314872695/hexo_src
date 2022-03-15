@@ -1,9 +1,10 @@
 ---
 title: spring MVC中的异常处理
+tags:
+  - java
+  - spring mvc
+abbrlink: 88f507dc
 date: 2020-06-11 21:48:44
-tags: 
-- java
-- spring mvc
 ---
 
 > 发生异常是不可避免的，希望在发生异常时跳转到一个友好页面

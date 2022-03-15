@@ -1,7 +1,8 @@
 ---
 title: python中几个常见的魔法方法
-date: 2019-08-19 15:24:00
 tags: python
+abbrlink: 2b720b81
+date: 2019-08-19 15:24:00
 ---
 
 

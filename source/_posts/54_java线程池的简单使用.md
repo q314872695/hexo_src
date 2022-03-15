@@ -1,7 +1,8 @@
 ---
 title: java线程池的简单使用
-date: 2020-05-11 21:38:35
 tags: java
+abbrlink: 3745afed
+date: 2020-05-11 21:38:35
 ---
 
 # 线程池的概念

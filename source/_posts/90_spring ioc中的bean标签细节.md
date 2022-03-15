@@ -1,9 +1,10 @@
 ---
 title: spring IOC中的bean标签细节
+tags:
+  - java
+  - spring
+abbrlink: 77525db8
 date: 2020-06-07 22:03:28
-tags: 
-- java
-- spring
 ---
 
 # bean标签

@@ -1,7 +1,8 @@
 ---
 title: python的局部变量和全局变量
-date: 2019-08-15 15:24:00
 tags: python
+abbrlink: 28245ef3
+date: 2019-08-15 15:24:00
 ---
 
 

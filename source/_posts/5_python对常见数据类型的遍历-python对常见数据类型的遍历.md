@@ -1,7 +1,8 @@
 ---
 title: python对常见数据类型的遍历
-date: 2019-08-12 15:24:00
 tags: python
+abbrlink: 64ab960e
+date: 2019-08-12 15:24:00
 ---
 
 

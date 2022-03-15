@@ -1,7 +1,8 @@
 ---
 title: mysql常用sql语句总结
-date: 2019-08-29 15:24:00
 tags: mysql
+abbrlink: 4969832b
+date: 2019-08-29 15:24:00
 ---
 
 

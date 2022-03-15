@@ -1,7 +1,8 @@
 ---
 title: java中properties属性集介绍
-date: 2020-05-13 21:13:03
 tags: java
+abbrlink: 8f402403
+date: 2020-05-13 21:13:03
 ---
 
 # 概述

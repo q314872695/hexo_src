@@ -1,7 +1,8 @@
 ---
 title: java8新特性之Stream流
-date: 2020-05-16 08:55:08
 tags: java
+abbrlink: 2cfd594e
+date: 2020-05-16 08:55:08
 ---
 
 # 引言

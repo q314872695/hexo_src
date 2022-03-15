@@ -1,7 +1,8 @@
 ---
 title: with与上下文管理器
-date: 2019-08-30 15:24:00
 tags: python
+abbrlink: 41da7731
+date: 2019-08-30 15:24:00
 ---
 
 

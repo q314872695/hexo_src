@@ -1,7 +1,8 @@
 ---
 title: JDBC各类详解以及工具类JDBCUtils的抽取
-date: 2020-05-18 22:06:03
 tags: java
+abbrlink: '57435e12'
+date: 2020-05-18 22:06:03
 ---
 
 # 概念

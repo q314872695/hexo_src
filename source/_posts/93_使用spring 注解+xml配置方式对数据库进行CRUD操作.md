@@ -1,9 +1,10 @@
 ---
 title: 使用spring 注解+xml配置方式对数据库进行CRUD操作
-date: 2020-06-08 16:58:07
 tags:
-- java
-- spring
+  - java
+  - spring
+abbrlink: 768421c6
+date: 2020-06-08 16:58:07
 ---
 
 > 注解加xml配置时比较常用的方式，对于自己写的类使用注解，对于别人写的类（如使用jar包）就在xml中配置

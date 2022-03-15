@@ -1,9 +1,10 @@
 ---
 title: spring整合shiro后@Value加载变慢导致变量值为null
-date: 2021-01-12 21:51:55
 tags:
-- spring
-- shiro
+  - spring
+  - shiro
+abbrlink: ebdf593d
+date: 2021-01-12 21:51:55
 ---
 
 具体情况如下：

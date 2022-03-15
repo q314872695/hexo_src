@@ -1,9 +1,10 @@
 ---
 title: jsp知识点总结
-date: 2020-05-23 17:09:38
 tags:
-- java
-- jsp
+  - java
+  - jsp
+abbrlink: 147a30a1
+date: 2020-05-23 17:09:38
 ---
 
 # JSP

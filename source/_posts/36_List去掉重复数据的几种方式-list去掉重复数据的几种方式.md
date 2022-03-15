@@ -1,7 +1,8 @@
 ---
 title: List去掉重复数据的几种方式
-date: 2020-03-29 20:26:43
 tags: java
+abbrlink: 6da6fae6
+date: 2020-03-29 20:26:43
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 title: xml简单介绍
-date: 2020-05-20 22:11:53
 tags:
-- java
-- xml
+  - java
+  - xml
+abbrlink: 250be967
+date: 2020-05-20 22:11:53
 ---
 
 # 概念

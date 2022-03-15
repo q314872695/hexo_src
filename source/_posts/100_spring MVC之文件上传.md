@@ -1,9 +1,10 @@
 ---
 title: spring MVC之文件上传
-date: 2020-06-11 14:53:05
 tags:
-- java
-- spring mvc
+  - java
+  - spring mvc
+abbrlink: b1d9f7e1
+date: 2020-06-11 14:53:05
 ---
 
 # 上传到本地服务器

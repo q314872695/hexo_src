@@ -1,9 +1,10 @@
 ---
 title: Servlet+spring 纯java配置(无xml)
-date: 2020-06-27 21:53:26
 tags:
-- servlet
-- spring
+  - servlet
+  - spring
+abbrlink: '6696e004'
+date: 2020-06-27 21:53:26
 ---
 
 # pom.xml

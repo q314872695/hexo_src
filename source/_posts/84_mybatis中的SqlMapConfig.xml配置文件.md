@@ -1,9 +1,10 @@
 ---
 title: mybatis中的SqlMapConfig.xml配置文件
-date: 2020-06-02 15:19:29
 tags:
-- java
-- mybatis
+  - java
+  - mybatis
+abbrlink: e5025c28
+date: 2020-06-02 15:19:29
 ---
 
 > 首先呢这个主配置文件的名字是可以随便起的，想叫什么就叫什么

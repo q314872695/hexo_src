@@ -1,7 +1,8 @@
 ---
 title: java中线程安全的问题
-date: 2020-05-11 21:19:12
 tags: java
+abbrlink: 8c71e0cd
+date: 2020-05-11 21:19:12
 ---
 
 # 线程安全

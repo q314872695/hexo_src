@@ -1,9 +1,10 @@
 ---
 title: tomcat8以及8之前中文乱码问题解决
-date: 2020-05-27 22:59:28
 tags:
-- java
-- tomcat
+  - java
+  - tomcat
+abbrlink: 2a0eb34c
+date: 2020-05-27 22:59:28
 ---
 
 

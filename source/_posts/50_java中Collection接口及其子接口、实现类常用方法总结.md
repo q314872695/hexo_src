@@ -1,7 +1,8 @@
 ---
 title: Java中Collection接口及其子接口、实现类常用方法总结
-date: 2020-05-10 21:54:28
 tags: java
+abbrlink: 26b0a16b
+date: 2020-05-10 21:54:28
 ---
 
 # Collection接口

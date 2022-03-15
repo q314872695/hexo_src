@@ -1,7 +1,8 @@
 ---
 title: python中的列表推导式
-date: 2019-08-20 15:24:00
 tags: python
+abbrlink: 883e3be
+date: 2019-08-20 15:24:00
 ---
 
 

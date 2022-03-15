@@ -1,7 +1,8 @@
 ---
 title: python下标和切片的使用
-date: 2019-08-08 15:24:00
 tags: python
+abbrlink: db18e9cc
+date: 2019-08-08 15:24:00
 ---
 
 

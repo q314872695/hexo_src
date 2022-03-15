@@ -1,9 +1,10 @@
 ---
 title: mybatis快速入门
-date: 2020-05-31 21:48:18
 tags:
-- java
-- mybatis
+  - java
+  - mybatis
+abbrlink: ba767012
+date: 2020-05-31 21:48:18
 ---
 
 # 搭建mybatis开发环境
