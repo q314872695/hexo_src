@@ -1,2 +1,5 @@
 export HEXO_ALGOLIA_INDEXING_KEY=32271920a001ae9c18a325e757b5a916
 hexo algolia --flush true --layouts post
+
+
+cloudbase framework deploy -e hexo-3gqgch0df628c535
