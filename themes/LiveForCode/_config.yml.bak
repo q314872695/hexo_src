@@ -16,7 +16,7 @@ BlogStartDate: "2019-01-01"
 
 # ---- 网站配置 ----
 # 当前页失去焦点, 页面Title显示文字
-WebsiteTitleBlur: (◍´꒳`◍) Hi, Live For Code
+WebsiteTitleBlur: (◍´꒳`◍) Hi, 三国小梦
 # 当前页失去焦点, 页面Title变化, 延时时间, 单位毫秒
 WebsiteTitleBlurTimeOut: 500
 # 当前页获取焦点, 页面Title显示文字, 显示后延时恢复原Title
@@ -221,7 +221,6 @@ Donate:
   alipay : ""
   wechat : ""
 
-
 # ---- Code Style ----
 Code: 
   style: normal
@@ -231,7 +230,7 @@ Code:
 Search:
   applicationID: 6JVVPXH6N1
   apiKey: 83f68c1cfca7b9883d4f717598d67f0d
-  indexName: Notes
+  indexName: Note
   hits:
     page: 10
   labels:
@@ -246,15 +245,13 @@ Valine:
   el: .comments-content
   appId: 1Y0tYndzwEIP0nRQjhOcLhYN-gzGzoHsz
   appKey: yA5d5am04aw9kLrJHqmALrh6
-  # 国内版本 LeanCloud 可以不用设置
-  serverURLs: 
   placeholder: 你是我一生只会遇见一次的惊喜...
   avatar: mm
   meta: nick,mail,link
   requiredFields: nick,mail
   pageSize: 5
   lang: zh-cn
-  visitor: true
+  visitor: false
   enableQQ: true
 
 
