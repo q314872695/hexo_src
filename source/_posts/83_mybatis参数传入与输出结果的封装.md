@@ -1,8 +1,6 @@
 ---
 title: mybatis参数传入与输出结果的封装
-tags:
-  - java
-  - mybatis
+tags: mybatis
 abbrlink: 523fb24f
 date: 2020-06-02 11:49:20
 ---

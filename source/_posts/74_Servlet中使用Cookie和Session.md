@@ -1,8 +1,6 @@
 ---
 title: Servlet中使用Cookie和Session
-tags:
-  - java
-  - servlet
+tags: servlet
 abbrlink: 255c3423
 date: 2020-05-23 15:39:03
 ---
@@ -79,7 +77,7 @@ response.addCookie(c);
 			* 在服务器正常关闭之前，将session对象系列化到硬盘上
 		* session的活化：
 			* 在服务器启动后，将session文件转化为内存中的session对象即可。
-			
+	
 3. session什么时候被销毁？
 	1. 服务器关闭
 	2. session对象调用invalidate() 。

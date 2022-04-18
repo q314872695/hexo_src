@@ -1,8 +1,6 @@
 ---
 title: mybatis中的SqlMapConfig.xml配置文件
-tags:
-  - java
-  - mybatis
+tags: mybatis
 abbrlink: e5025c28
 date: 2020-06-02 15:19:29
 ---

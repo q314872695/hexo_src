@@ -1,8 +1,6 @@
 ---
 title: spring MVC之文件上传
-tags:
-  - java
-  - spring mvc
+tags: spring mvc
 abbrlink: b1d9f7e1
 date: 2020-06-11 14:53:05
 ---
@@ -153,5 +151,4 @@ public String fileupload3(MultipartFile upload) throws Exception {
         return "success";
 }
 ```
-
 

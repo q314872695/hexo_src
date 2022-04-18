@@ -13,7 +13,7 @@ date: 2020-05-14 22:25:51
 4. 【服务端】输出流，写出文件数据到服务器硬盘中。
 
 
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1589465952019.png!webp)
+![image.png](https://halo-1257208482.image.myqcloud.com/202204051749730.png!webp)
 
 # 基本实现
 **服务端实现**

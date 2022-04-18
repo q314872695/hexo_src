@@ -1,8 +1,6 @@
 ---
 title: mybatis中的延迟加载策略
-tags:
-  - java
-  - mybatis
+tags: mybatis
 abbrlink: ed9d2b04
 date: 2020-06-04 21:04:06
 ---

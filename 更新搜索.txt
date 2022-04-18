@@ -3,3 +3,7 @@ hexo algolia --flush true --layouts post
 
 
 cloudbase framework deploy -e hexo-3gqgch0df628c535
+
+cloudbase hosting delete -e hexo-3gqgch0df628c535 -y
+
+cloudbase hosting deploy public -e hexo-3gqgch0df628c535

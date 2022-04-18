@@ -1,8 +1,6 @@
 ---
 title: spring MVC中的响应数据总结
-tags:
-  - java
-  - spring mvc
+tags: spring mvc
 abbrlink: 1c068cee
 date: 2020-06-11 10:45:11
 ---

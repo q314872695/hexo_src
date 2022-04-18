@@ -11,6 +11,7 @@ date: 2021-01-19 09:49:46
 那么url地址和真实的资源之间就有一种对应的关系，就是路由。
 
 **路由分为前端路由和后端路由**
+
 1. 后端路由是由服务器端进行实现，并完成资源的分发
 2. 前端路由是依靠hash值(锚链接)的变化进行实现 
 
@@ -21,7 +22,7 @@ date: 2021-01-19 09:49:46
 # 2. 前端路由的初体验
 前端路由是基于hash值的变化进行实现的（比如点击页面中的菜单或者按钮改变URL的hash值，根据hash值的变化来控制组件的切换）
 核心实现依靠一个事件，即监听hash值变化的事件
-```
+```javascript
 window.onhashchange = function(){
     //location.hash可以获取到最新的hash值
     location.hash
@@ -29,7 +30,7 @@ window.onhashchange = function(){
 ```
 
 前端路由实现tab栏切换：
-```
+```html
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -130,7 +131,7 @@ window.onhashchange = function(){
 ```
 当我们点击这些超链接的时候，就会改变url地址中的hash值，当hash值被改变时，就会触发onhashchange事件
 在触发onhashchange事件的时候，我们根据hash值来让不同的组件进行显示：
-```
+```javascript
 window.onhashchange = function() {
     // 通过 location.hash 获取到最新的 hash 值
     console.log(location.hash);
@@ -239,7 +240,7 @@ var myRouter = new VueRouter({
 /login/phone
 
 参考代码如下：
-```
+```javascript
 var User = { template: "<div>This is User</div>" }
 //Login组件中的模板代码里面包含了子级路由链接以及子级路由的占位符
     var Login = { template: `<div>

@@ -1,8 +1,6 @@
 ---
 title: spring中的声明式事务控制
-tags:
-  - java
-  - spring
+tags: spring
 abbrlink: 954b2146
 date: 2020-06-09 18:21:55
 ---
@@ -22,7 +20,7 @@ date: 2020-06-09 18:21:55
 		- `ISOLATION_SERIALIZABLE`：串行化，可以解决所有的问题
 	- `int getPropagationBehavior()`：获取事务传播行为
 		- `REQUIRED`:如果当前没有事务，就新建一个事务，如果已经存在一个事务中，加入到这个事务中。一般的选
-择（默认值）
+		择（默认值）
 		- `SUPPORTS`:支持当前事务，如果当前没有事务，就以非事务方式执行（没有事务）
 	- `int getTimeout()`：获取事务超时时间
 		- 默认值是-1，没有超时限制。如果有，以秒为单位进行设置。

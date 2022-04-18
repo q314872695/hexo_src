@@ -1,15 +1,13 @@
 ---
 title: mybatis中的多表查询
-tags:
-  - java
-  - mybatis
+tags: mybatis
 abbrlink: c381a747
 date: 2020-06-04 15:42:52
 ---
 
 # 一对一查询（多对一）
 **数据库中表的关系图**
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1591254496797.png!webp)
+![image.png](https://halo-1257208482.image.myqcloud.com/202204051755601.png!webp)
 
 - `user`表和`account`表是一对多关系
 - `account`表中`uid`是外键

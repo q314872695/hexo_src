@@ -19,14 +19,14 @@ Vuex是实现组件全局状态（数据）管理的一种机制，可以方便�
 当项目仪表盘打开之后，我们点击页面左上角的项目管理下拉列表，再点击Vue项目管理器
 点击创建项目，如下图所示
 **第一步，设置项目名称和包管理器**
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1611194723904.png!webp)
+![image.png](https://halo-1257208482.image.myqcloud.com/202204051758761.png!webp)
 **第二步，设置手动配置项目**
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1611194748009.png!webp)
+![image.png](https://halo-1257208482.image.myqcloud.com/202204051758396.png!webp)
 **第三步，设置功能项**
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1611194763383.png!webp)
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1611194774191.png!webp)
+![image.png](https://halo-1257208482.image.myqcloud.com/202204051758007.png!webp)
+![缺少张图片，后续补上](https://halo-1257208482.image.myqcloud.com/202204051759245.png!webp)
 **第四步，创建项目**
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1611194785805.png!webp)
+![image.png](https://halo-1257208482.image.myqcloud.com/202204051803321.png!webp)
 
 ## 3.使用Vuex完成计数器案例
 打开刚刚创建的vuex项目，找到src目录中的App.vue组件，将代码重新编写如下：
@@ -294,7 +294,6 @@ conststore = new Vuex.Store({
  
 })
 ```
-
 
 
 

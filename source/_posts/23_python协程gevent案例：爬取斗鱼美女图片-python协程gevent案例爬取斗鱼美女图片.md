@@ -12,13 +12,13 @@ date: 2019-08-26 15:24:00
 ## 分析网站寻找需要的网址
 
 用谷歌浏览器摁F12打开开发者工具，然后打开斗鱼颜值分类的页面，如图：
-![](https://pic.imgdb.cn/item/5e9ea85fc2a9a83be56728d8.png)
+![](https://halo-1257208482.image.myqcloud.com/202204051741367.png!webp)
 
 在里面的请求中，最后发现它是以ajax加载的数据，数据格式为json，如图：
-![](https://pic.imgdb.cn/item/5e9ea887c2a9a83be5673fa4.png)
+![](https://halo-1257208482.image.myqcloud.com/202204051742584.png!webp)
 
-圈住的部分是我们需要的数据，然后复制它的网址为https://www.douyu.com/gapi/rknc/directory/yzRec/1，出于学习目的只爬取第一页（减少服务器压力）。然后把网址放到浏览器中测试是否可以访问。如图：
-![](https://pic.imgdb.cn/item/5e9ea8c4c2a9a83be56776f4.png)
+圈住的部分是我们需要的数据，然后复制它的网址为`https://www.douyu.com/gapi/rknc/directory/yzRec/1` ，出于学习目的只爬取第一页（减少服务器压力）。然后把网址放到浏览器中测试是否可以访问。如图：
+![](https://halo-1257208482.image.myqcloud.com/202204051742319.png!webp)
 
 
 ## 分析json数据，提取图片链接
@@ -145,6 +145,6 @@ if __name__ == '__main__':
 # 结果
 由于使用的是协程，比线程效率更高，不到1秒就把第一页的图片全部爬取下来了。效果如图：
 
-![J87kKe.png](https://s1.ax1x.com/2020/04/21/J87kKe.png)
+![J87kKe.png](https://halo-1257208482.image.myqcloud.com/202204051742167.png!webp)
 
 此案例仅用于学习gevent的使用。

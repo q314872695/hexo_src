@@ -1,8 +1,6 @@
 ---
 title: Servlet的简介
-tags:
-  - java
-  - servlet
+tags: servlet
 abbrlink: f80b45a0
 date: 2020-05-21 16:19:40
 ---
@@ -96,7 +94,7 @@ public @interface WebServlet {
 		2. /xxx/xxx:多层路径，目录结构
 		3. *.do：扩展名匹配
 # Servlet的体系结构	
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1590049726217.png!webp)
+![image.png](https://halo-1257208482.image.myqcloud.com/202204051751787.png!webp)
 * `GenericServlet`：将`Servlet`接口中其他的方法做了默认空实现，只将service()方法作为抽象
 	* 将来定义`Servlet`类时，可以继承`GenericServlet`，实现`service()`方法即可
 

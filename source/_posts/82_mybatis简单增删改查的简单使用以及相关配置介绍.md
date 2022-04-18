@@ -1,9 +1,7 @@
 ---
 title: mybatis增删改查的简单使用
 date: '2020-05-31 22:39'
-tags:
-  - java
-  - mybatis
+tags: mybatis
 abbrlink: 7ed322fb
 ---
 

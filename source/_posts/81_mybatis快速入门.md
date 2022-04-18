@@ -1,8 +1,6 @@
 ---
 title: mybatis快速入门
-tags:
-  - java
-  - mybatis
+tags: mybatis
 abbrlink: ba767012
 date: 2020-05-31 21:48:18
 ---
@@ -111,7 +109,7 @@ public interface IUserDao {
 - 名称：必须是以持久层接口命名的文件名，扩展名是xml
 
 如图：
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1590931348381.png!webp)
+![image.png](https://halo-1257208482.image.myqcloud.com/202204051755237.png!webp)
 
 `resources`中的文件夹只能一个一个单独创建，否则可能是这样（其实是创建了一个文件夹）：
 ![image.png](https://halo-1257208482.image.myqcloud.com/image_1590931448209.png!webp)
@@ -180,7 +178,7 @@ log4j.appender.LOGFILE.Append=true
 log4j.appender.LOGFILE.layout=org.apache.log4j.PatternLayout
 log4j.appender.LOGFILE.layout.ConversionPattern=%d{ISO8601} %-6r [%t] %-5p %30.30c %x - %m%n
 ```
- 
+
 7. 编写测试类
 ```java
 public class MybatisTest {
@@ -222,5 +220,4 @@ public interface IUserDao {
 </mappers>
 ```
 3. 删除`IUserDao.xml`文件，否则会报错
-
 

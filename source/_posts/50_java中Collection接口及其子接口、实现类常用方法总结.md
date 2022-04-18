@@ -6,7 +6,7 @@ date: 2020-05-10 21:54:28
 ---
 
 # Collection接口
-![image](https://halo-1257208482.image.myqcloud.com/image_1589161894543.png!webp)
+![image](https://halo-1257208482.image.myqcloud.com/202204051745761.png!webp)
 单列集合类的根接口，用于存储一系列符合某种规则的元素，它有两个重要的子接口，分别是`java.util.List`和`java.util.Set`。其中，`List`的特点是元素有序、元素可重复。`Set`的特点是元素无序，而且不可重复。`List`接口的主要实现类有`java.util.ArrayList`和`java.util.LinkedList`，`Set`接口的主要实现类有`java.util.HashSet`和`java.util.TreeSet`。
 
 **Collection常用方法**

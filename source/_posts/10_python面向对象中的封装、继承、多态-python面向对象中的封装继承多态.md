@@ -55,13 +55,16 @@ if __name__ == '__main__':
 
 # 继承
 在现实生活中，继承一般指的是子女继承父辈的财产，如下图
-![](https://cdn.jsdelivr.net/gh/q314872695/images/20200420163541.png)
+
+![](https://halo-1257208482.image.myqcloud.com/202204051739644.png!webp)
 
 搞不好,结果如下..
-![](https://cdn.jsdelivr.net/gh/q314872695/images/20200420163326.png)
+
+![](https://halo-1257208482.image.myqcloud.com/202204051739458.png!webp)
 
 在程序中继承是描述事物之间的所属关系，例如猫和狗都属于动物，程序中便可以描述为猫和狗继承自动物；同理，波斯猫和巴厘猫都继承自猫，而沙皮狗和斑点狗都继承自狗，如下如所示：
-![](https://pic.imgdb.cn/item/5e9ea7a7c2a9a83be56675ec.png)
+
+![](https://halo-1257208482.image.myqcloud.com/202204051740688.png!webp)
 
 **子类可以继承父类的公共属性和公共方法，父类中私有的属性和方法不能被继承。**
 
@@ -110,7 +113,7 @@ bs的颜色为:白色
 
 
 ## 多继承
-![](https://pic.imgdb.cn/item/5e9ea7d5c2a9a83be566a70d.png)
+![](https://halo-1257208482.image.myqcloud.com/202204051740645.png!webp)
 
 从图中能够看出，所谓多继承，即子类有多个父类，并且具有它们的特征。
 多继承的格式如下：

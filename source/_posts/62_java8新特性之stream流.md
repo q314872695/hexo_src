@@ -94,9 +94,9 @@ public class Demo1 {
 **注意：请暂时忘记对传统IO流的固有印象！** 
 
 整体来看，流式思想类似于工厂车间的“生产流水线”。
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1589589041686.png!webp) 
+![image.png](https://halo-1257208482.image.myqcloud.com/202204051750461.png!webp) 
 当需要对多个元素进行操作（特别是多步操作）的时候，考虑到性能及便利性，我们应该首先拼好一个“模型”步骤 方案，然后再按照方案去执行它。
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1589589105679.png!webp)
+![image.png](https://halo-1257208482.image.myqcloud.com/202204051750574.png!webp)
 这张图中展示了过滤、映射、跳过、计数等多步操作，这是一种集合元素的处理方案，而方案就是一种“函数模 型”。图中的每一个方框都是一个“流”，调用指定的方法，可以从一个流模型转换为另一个流模型。而最右侧的数字 3是最终结果。 
 
 这里的`filter`、`map`、`skip`都是在对函数模型进行操作，集合元素并没有真正被处理。只有当终结方法 count 执行的时候，整个模型才会按照指定策略执行操作。而这得益于Lambda的延迟执行特性。 
@@ -234,5 +234,4 @@ public class Demo12StreamConcat {
 	} 
 }
 ```
-
 

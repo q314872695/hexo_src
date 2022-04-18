@@ -1,8 +1,6 @@
 ---
 title: spring IOC常用注解按作用分类
-tags:
-  - java
-  - spring
+tags: spring
 abbrlink: 6bbf23e0
 date: 2020-06-08 16:48:31
 ---

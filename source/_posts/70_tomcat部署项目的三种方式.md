@@ -1,8 +1,6 @@
 ---
 title: tomcat部署项目的三种方式
-tags:
-  - java
-  - tomcat
+tags: tomcat
 abbrlink: 3f91e6fe
 date: 2020-05-21 15:42:32
 ---

@@ -1,15 +1,13 @@
 ---
 title: spring纯注解配置对数据库CRUD操作
-tags:
-  - java
-  - spring
+tags: spring
 abbrlink: 7cd4b75b
 date: 2020-06-08 18:04:44
 ---
 
 > 该案例和上一个案例项目结构一摸一样，只是删除了spring配置文件，以及添加的两个配置类来代替xml配置文件
 # 项目结构
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1591610963351.png!webp)
+![image.png](https://halo-1257208482.image.myqcloud.com/202204051756511.png!webp)
 config包下为新添加的配置类。
 # 相关配置
 ## 用到的新注解：

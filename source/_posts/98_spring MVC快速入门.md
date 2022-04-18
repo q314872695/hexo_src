@@ -1,8 +1,6 @@
 ---
 title: spring MVC快速入门
-tags:
-  - java
-  - spring mvc
+tags: spring mvc
 abbrlink: 257b7243
 date: 2020-06-10 18:27:09
 ---

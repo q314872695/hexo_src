@@ -48,7 +48,9 @@ public class TicketDemo {
 }
 ```
 结果中有一部分这样现象：
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1589201913915.png!webp)
+
+![](https://halo-1257208482.image.myqcloud.com/202204051747005.png!webp)
+
 1. 相同的票数,比如5这张票被卖了两回。 
 2. 不存在的票，比如0票与-1票，是不存在的。
 

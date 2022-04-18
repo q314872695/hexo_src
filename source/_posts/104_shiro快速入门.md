@@ -193,7 +193,7 @@ public class MyRealm extends AuthorizingRealm {
 # 再升级版（对明文密码加密+角色(权限)控制）
 在生产环境中，数据库的密码都是密文保存的，该案例实现了使用shiro对用户密码加密的登录
 ## 数据表关系图
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1592924397929.png!webp)
+![image.png](https://halo-1257208482.image.myqcloud.com/202204051756880.png!webp)
 - t_user:用户表
 - t_role:角色表
 - t_perms:权限表

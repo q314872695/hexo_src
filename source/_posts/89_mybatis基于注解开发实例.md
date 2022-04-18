@@ -1,8 +1,6 @@
 ---
 title: mybatis基于注解开发实例
-tags:
-  - java
-  - mybatis
+tags: mybatis
 abbrlink: 1c229434
 date: 2020-06-07 09:37:53
 ---

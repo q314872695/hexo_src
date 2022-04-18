@@ -1,8 +1,6 @@
 ---
 title: mybatis中的动态sql语句编写
-tags:
-  - java
-  - mybatis
+tags: mybatis
 abbrlink: 90c0f7e
 date: 2020-06-04 14:43:25
 ---

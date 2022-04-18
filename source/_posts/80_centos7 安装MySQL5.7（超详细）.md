@@ -10,7 +10,7 @@ date: 2020-05-29 17:24:24
 # 添加MySQL Yum存储库
 1. 打开网址`http://repo.mysql.com/`
 
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1590736107586.png!webp)
+![image.png](https://halo-1257208482.image.myqcloud.com/202204051752280.png!webp)
 
 2. 适合自己电脑版本的rpm文件
 	1. 对于基于EL6(centos 6)的系统，rpm包形式为：`mysql57-community-release-el6-{version-number}.noarch.rpm`
@@ -21,11 +21,11 @@ date: 2020-05-29 17:24:24
 4. `rpm -ivh http://repo.mysql.com/mysql57-community-release-el7-9.noarch.rpm` 
 
 
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1590735743114.png!webp)
+![image.png](https://halo-1257208482.image.myqcloud.com/202204051752042.png!webp)
 
 5. 可以使用`yum repolist enabled | grep "mysql.*-community.*"`检查是否已成功添加MySQL Yum存储库
 
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1590735831753.png!webp)
+![image.png](https://halo-1257208482.image.myqcloud.com/202204051752159.png!webp)
 
 6. 对用mysql8.0的安装也是同样，只要找到对应的rpm包即可。格式：`mysql80-community-release-el6-{version-number}.noarch.rpm`
 # 安装mysql
@@ -36,7 +36,7 @@ date: 2020-05-29 17:24:24
 - 启动MySQL服务器：`sudo service mysqld start`
 - 使用以下命令检查MySQL服务器的状态：`sudo service mysqld status`,正常情况应该如图下所示
 
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1590741749108.png!webp)
+![image.png](https://halo-1257208482.image.myqcloud.com/202204051752171.png!webp)
 
 # 细节
 
@@ -51,7 +51,7 @@ date: 2020-05-29 17:24:24
 - `'root'@'localhost`创建 一个超级用户帐户。设置超级用户的密码并将其存储在错误日志文件中。要显示它，请使用以下命令：`sudo grep 'temporary password' /var/log/mysqld.log`
 
 
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1590741906407.png!webp)
+![image.png](https://halo-1257208482.image.myqcloud.com/202204051753521.png!webp)
 
 **通过使用生成的临时密码登录并尽快为超级用户帐户设置自定义密码，以更改root密码：**
 - `mysql -uroot -p`

@@ -1,8 +1,6 @@
 ---
 title: spring MVC中的异常处理
-tags:
-  - java
-  - spring mvc
+tags: spring mvc
 abbrlink: 88f507dc
 date: 2020-06-11 21:48:44
 ---
@@ -61,8 +59,7 @@ public String testException(){
 }
 ```
 5. 结果
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1591883306014.png!webp)
-
+![image.png](https://halo-1257208482.image.myqcloud.com/202204051756351.png!webp)
 
 
 

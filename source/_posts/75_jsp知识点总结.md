@@ -1,8 +1,6 @@
 ---
 title: jsp知识点总结
-tags:
-  - java
-  - jsp
+tags: jsp
 abbrlink: 147a30a1
 date: 2020-05-23 17:09:38
 ---
@@ -136,5 +134,4 @@ JavaServer Pages Tag Library  JSP标准标签库
     ${i}<br>
 </c:forEach>
 ```
-
 

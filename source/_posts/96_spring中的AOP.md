@@ -1,8 +1,6 @@
 ---
 title: spring中的AOP
-tags:
-  - java
-  - spring
+tags: spring
 abbrlink: affc4263
 date: 2020-06-09 10:43:23
 ---
@@ -318,7 +316,6 @@ public class AccountServiceTest {
 
 **解决办法：**
 可以通过使用环绕通知来代替上述四个通知。
-
 
 
 

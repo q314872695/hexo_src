@@ -1,8 +1,6 @@
 ---
 title: spring MVC 中的拦截器配置
-tags:
-  - java
-  - spring mvc
+tags: spring mvc
 abbrlink: 62f73bbe
 date: 2020-06-12 09:57:42
 ---

@@ -60,7 +60,7 @@ docker exec –it c_mysql /bin/bash
 
 5. 使用外部机器连接容器中的mysql。
 
-![](https://pic.downk.cc/item/5e96cac8c2a9a83be59d10d6.jpg)
+![](https://halo-1257208482.image.myqcloud.com/202204051744253.jpeg!webp)
 
 
 # 二、部署Tomcat

@@ -1,8 +1,6 @@
 ---
 title: 使用spring 注解+xml配置方式对数据库进行CRUD操作
-tags:
-  - java
-  - spring
+tags: spring
 abbrlink: 768421c6
 date: 2020-06-08 16:58:07
 ---

@@ -17,7 +17,7 @@ date: 2022-01-19 17:21:38
 
 截止到现在nvm-windows的最新版本是1.1.9，点击[下载](https://github.com/coreybutler/nvm-windows/releases)，即可。**需要注意的是安装nvm-windows之前需要卸载之前的node**，把之前相关文件夹都删干净了就可以无脑安装了。如果在`cmd`中输入`nvm`出现如下所示则说明安装成功了。
 
-![](https://pic.imgdb.cn/item/61e90ef92ab3f51d913ac529.jpg)
+![](https://halo-1257208482.image.myqcloud.com/202204051803973.jpeg!webp)
 
 # 使用
 

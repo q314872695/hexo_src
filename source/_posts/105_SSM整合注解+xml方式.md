@@ -1,7 +1,6 @@
 ---
 title: SSM整合注解+xml方式
 tags:
-  - java
   - mybatis
   - spring
   - spring mvc

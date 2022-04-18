@@ -10,7 +10,7 @@ java框架中绝大部分都运用了反射技术，所谓框架就是半成品�
 Java的反射是指程序在运行期可以拿到一个对象的所有信息。
 # 获取Class对象的方式
 首先先了解一下java代码的三个阶段
-![image.png](https://halo-1257208482.image.myqcloud.com/image_1589680111300.png!webp)
+![image.png](https://halo-1257208482.image.myqcloud.com/202204051750076.png!webp)
 
 **以下3中方式分别为不同阶段获取class对象**
 1. `Class.forName("全类名")`：将字节码文件加载进内存，返回Class对象。多用于配置文件，将类名定义在配置文件中。读取文件，加载类。

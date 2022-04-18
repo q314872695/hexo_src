@@ -1,8 +1,6 @@
 ---
 title: spring MVC中请求参数的总结
-tags:
-  - java
-  - spring mvc
+tags: spring mvc
 abbrlink: b89fe25e
 date: 2020-06-10 19:09:02
 ---
@@ -19,7 +17,7 @@ date: 2020-06-10 19:09:02
 	2. 实体类型（JavaBean）
 		-  提交表单的name和JavaBean中的属性名称需要一致
 		- 如果一个JavaBean类中包含其他的引用类型，那么表单的name属性需要编写成：对象.属性 例如：
-`user.age`
+		`user.age`
 	3. 集合数据类型（List、map集合等）
 		- JSP页面编写方式：list[0].属性、map['key'].属性
 ## 请求参数中文乱码的解决
@@ -252,7 +250,6 @@ public String save1(@SessionAttribute("username") String name) {
         return "success";
 }
 ```
-
 
 
 

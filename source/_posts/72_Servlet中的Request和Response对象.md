@@ -1,8 +1,6 @@
 ---
 title: Servlet中的Request和Response对象
-tags:
-  - java
-  - servlet
+tags: servlet
 abbrlink: bc8d5003
 date: 2020-05-21 20:30:40
 ---
@@ -92,12 +90,12 @@ org.apache.catalina.connector.RequestFacade 类(由tomcat实现)
 
 		7. 获取客户机的IP地址：
 			* `String getRemoteAddr()`
-				
+	
 2. 获取请求头数据
 	* 方法：
 		* `String getHeader(String name)`:通过请求头的名称获取请求头的值
 		* `Enumeration<String> getHeaderNames()`:获取所有的请求头名称
-		
+	
 3. 获取请求体数据:
 	* 请求体：只有`POST`请求方式，才有请求体，在请求体中封装了`POST`请求的请求参数
 	* 步骤：
@@ -182,7 +180,7 @@ hello , response
 	1. 格式：`HTTP/1.1 200 OK`
 	2. 设置状态码：`setStatus(int sc)` 
 2. 设置响应头：`setHeader(String name, String value)` 
-		
+	
 3. 设置响应体：
 	* 使用步骤：
 		1. 获取输出流
@@ -218,5 +216,4 @@ response.sendRedirect("/day15/responseDemo2");
 //设置编码，是在获取流之前设置
 response.setContentType("text/html;charset=utf-8");
 ```
-
 

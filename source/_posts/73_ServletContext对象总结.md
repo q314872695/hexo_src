@@ -1,8 +1,6 @@
 ---
 title: ServletContext对象总结
-tags:
-  - java
-  - servlet
+tags: servlet
 abbrlink: ec4f3e56
 date: 2020-05-23 15:06:36
 ---

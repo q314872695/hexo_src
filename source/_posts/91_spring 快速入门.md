@@ -1,8 +1,6 @@
 ---
 title: spring 快速入门
-tags:
-  - java
-  - spring
+tags: spring
 abbrlink: fdbeaf37
 date: 2020-06-08 15:11:22
 ---
