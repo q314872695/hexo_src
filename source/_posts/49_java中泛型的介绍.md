@@ -161,8 +161,7 @@ public class GenericClassDemo {
 
 ```java
 修饰符 <代表泛型的变量> 返回值类型 方法名(参数){  }
-java
-
+```
 例如，
 
 ```java
