@@ -363,7 +363,8 @@ Mouse:
     size: 6
     sizeF: 24
 
-
+# https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/css/404.css
+# https://cdn.jsdelivr.net/gh/first19326/cdn@master/
 # ---- Lazy Load ----
 LazyLoad:
   default: https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/image/website/lazyload.svg
