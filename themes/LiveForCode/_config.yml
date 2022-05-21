@@ -387,6 +387,7 @@ Style:
   normal: /css/normal.css
   night: /css/night.css
   clipboard: /css/clipboard.css
+  mouse: /css/mouse.css
 
 # ---- Script配置 ----
 Script:
