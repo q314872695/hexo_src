@@ -99,7 +99,7 @@ docker run 参数 镜像名称
 - 进入容器
 
 ```bash
-docker exec 参数 容器名称或者容器id # 退出容器，容器不会关闭，参数通常为-it
+docker exec -it 容器名称或者容器id bash 
 ```
 
 - 停止容器
