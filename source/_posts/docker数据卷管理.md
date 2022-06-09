@@ -34,8 +34,8 @@ docker run -id -v 别名:/容器内的路径 镜像名
 # 例如
 docker run -id --name mysql \
 	-v mysql_data:/var/lib/mysql \
-    -p 3306:3306 \
-    mysql:8
+	-p 3306:3306 \
+	mysql:8
 ```
 
 **注意：**
