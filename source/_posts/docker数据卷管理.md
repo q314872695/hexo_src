@@ -1,7 +1,8 @@
 ---
 title: docker数据卷管理
-date: 2022-06-08 16:16:19
 tags: docker
+abbrlink: 9f8168f3
+date: 2022-06-08 16:16:19
 ---
 
 # 什么是数据卷
