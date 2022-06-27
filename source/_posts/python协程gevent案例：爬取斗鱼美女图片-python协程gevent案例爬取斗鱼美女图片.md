@@ -1,6 +1,6 @@
 ---
 title: python协程gevent案例：爬取斗鱼美女图片
-tags: python
+tags: 爬虫
 abbrlink: ac1c2449
 date: 2019-08-26 15:24:00
 ---
