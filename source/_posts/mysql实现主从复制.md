@@ -1,7 +1,8 @@
 ---
 title: mysql实现主从复制
-date: 2022-06-10 15:29:58
 tags: mysql
+abbrlink: de3a676
+date: 2022-06-10 15:29:58
 ---
 
 # 前言
