@@ -1,7 +1,8 @@
 ---
 title: python之requests库快速上手
-date: 2022-07-05 09:28:04
 tags: 爬虫
+abbrlink: 61f1cbfe
+date: 2022-07-05 09:28:04
 ---
 
 > 之前使用的python自带的urllib和request库相比，简直就是弱爆了，request使用非常简单，功能又强大

@@ -1,7 +1,8 @@
 ---
 title: 使用python解析xpath
-date: 2022-07-05 15:26:26
 tags: 爬虫
+abbrlink: d35e0f2f
+date: 2022-07-05 15:26:26
 ---
 
 # xpath快速上手
