@@ -24,15 +24,15 @@ date: 2022-07-06 14:38:16
 	
 	1. 例如我电脑使用的浏览器是win10自带的Edge浏览器，下载浏览器驱动得到一个压缩包，解压后得到`msedgedriver.exe`
 	
-	![image-20220706145832890](E:\hexo_src\source\_posts\使用Selenium爬取js动态渲染的数据.assets\image-20220706145832890.png)
+	![image-20220706145832890](https://halo-1257208482.image.myqcloud.com/202207080922592.png!webp)
 	
 	2. 添加到环境变量中
 	
-	![image-20220706145940482](E:\hexo_src\source\_posts\使用Selenium爬取js动态渲染的数据.assets\image-20220706145940482.png)
+	![image-20220706145940482](https://halo-1257208482.image.myqcloud.com/202207080922594.png!webp)
 	
 	3. 在 `cmd` 中输入 `msedgedriver` ，若出现如下页面则设置成功。
    
-	![image-20220706150220464](E:\hexo_src\source\_posts\使用Selenium爬取js动态渲染的数据.assets\image-20220706150220464.png)
+	![image-20220706150220464](https://halo-1257208482.image.myqcloud.com/202207080922595.png!webp)
 	
 3. 安装selenium `pip install selenium`
 
