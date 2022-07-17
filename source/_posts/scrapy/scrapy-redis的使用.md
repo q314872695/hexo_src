@@ -1,15 +1,17 @@
 ---
 title: scrapy-redis的使用
-tags:
-  - scrapy
-  - 爬虫
-  - scrapy-redis
 abbrlink: 5cc55a38
 date: 2022-07-14 15:01:25
+tags:
+ - scrapy
+ - 爬虫
 ---
 
+# 前言
 
-> 在实际开发中，我们一般先scrpay项目编写好，然后再把它改造成scrapy-redis
+我电脑上现在已经安装的redis服务器，如果没有安装请先百度。
+
+在实际开发中，我们一般先scrpay项目编写好，然后再把它改造成scrapy-redis
 
 # scrapy-redis是什么
 
@@ -41,7 +43,7 @@ SCHEDULER_PERSIST = True
 ITEM_PIPELINES = {
     'scrapy_redis.pipelines.RedisPipeline': 400,  # 把爬取的数据也存到redis中
 }
-#REDIS_HOST = 'localhost'
+#REDIS_HOST = 'localhost' # 默认
 #REDIS_PORT = 6379
 ```
 
@@ -90,11 +92,11 @@ RedisSpider类 不需要写`allowd_domains`和`start_urls`：
 **执行方式**：
 
 1. 通过runspider方法执行爬虫的py文件（也可以分次执行多条），爬虫（们）将处于等待准备状态：
-
+   
    `scrapy runspider myspider_redis.py`
 
 2. 在Master端的redis-cli输入push指令，参考格式：
-
+   
    `$redis > lpush myspider:start_urls http://www.dmoz.org/`
 
 3. Slaver端爬虫获取到请求，开始爬取。
@@ -135,6 +137,3 @@ class MyCrawler(RedisCrawlSpider):
             'url': response.url,
         }
 ```
-
-
-

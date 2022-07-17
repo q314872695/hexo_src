@@ -1,10 +1,10 @@
 ---
 title: scrapy管道的使用
-tags:
-  - scrapy
-  - 爬虫
 abbrlink: b819e60d
 date: 2022-07-10 18:34:59
+tags:
+ - scrapy
+ - 爬虫
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 title: scrapy中crawlspider的使用
-tags:
-  - scrapy
-  - 爬虫
 abbrlink: 9e21acd9
 date: 2022-07-12 14:52:29
+tags:
+ - scrapy
+ - 爬虫
 ---
 
 

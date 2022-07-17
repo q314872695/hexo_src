@@ -17,26 +17,27 @@ date: 2022-07-06 14:38:16
 
 模拟浏览器功能，自动执行网页中的js代码，实现动态加载
 
-# 如何安装selenium？ 
+# 如何安装selenium？
 
 1. 根据电脑上使用的浏览器下载对应的浏览器驱动， [安装浏览器驱动 ](https://www.selenium.dev/zh-cn/documentation/webdriver/getting_started/install_drivers/)
+
 2. 把下载的驱动的`.exe`文件添加到环境变量的path路径中。
-	
-	1. 例如我电脑使用的浏览器是win10自带的Edge浏览器，下载浏览器驱动得到一个压缩包，解压后得到`msedgedriver.exe`
-	
-	![image-20220706145832890](https://halo-1257208482.image.myqcloud.com/202207080922592.png!webp)
-	
-	2. 添加到环境变量中
-	
-	![image-20220706145940482](https://halo-1257208482.image.myqcloud.com/202207080922594.png!webp)
-	
-	3. 在 `cmd` 中输入 `msedgedriver` ，若出现如下页面则设置成功。
    
-	![image-20220706150220464](https://halo-1257208482.image.myqcloud.com/202207080922595.png!webp)
-	
+   1. 例如我电脑使用的浏览器是win10自带的Edge浏览器，下载浏览器驱动得到一个压缩包，解压后得到`msedgedriver.exe`
+      
+      ![image-20220706145832890](https://halo-1257208482.image.myqcloud.com/202207080922592.png!webp)
+   
+   2. 添加到环境变量中
+      
+      ![image-20220706145940482](https://halo-1257208482.image.myqcloud.com/202207080922594.png!webp)
+   
+   3. 在 `cmd` 中输入 `msedgedriver` ，若出现如下页面则设置成功。
+      
+      ![image-20220706150220464](https://halo-1257208482.image.myqcloud.com/202207080922595.png!webp)
+
 3. 安装selenium `pip install selenium`
 
-# selenium的元素定位？ 
+# selenium的元素定位？
 
 **元素定位：**自动化要做的就是模拟鼠标和键盘来操作来操作这些元素，点击、输入等等。操作这些元素前首先 
 
@@ -78,8 +79,6 @@ img = browser.find_element(by=By.XPATH, value="//img") # 正确写法
 src = img.get_attribute("src") # 获取元素属性
 ```
 
-
-
 # 访问元素信息
 
 必须是`find_element`或者`find_elements`返回的对象才有如下方法
@@ -101,8 +100,6 @@ src = img.get_attribute("src") # 获取元素属性
 获取网页代码：page_source
 退出：browser.quit()
 ```
-
-
 
 # Edge浏览器无头模式
 
@@ -139,14 +136,6 @@ webdriver.DesiredCapabilities.EDGE['proxy'] = {
 
 ```
 
-
-
 # 更多信息参考官方文档
 
 [官方文档](https://www.selenium.dev/zh-cn/documentation/)
-
-
-
-
-
-.
